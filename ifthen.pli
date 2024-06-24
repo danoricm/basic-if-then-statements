@@ -1,0 +1,6 @@
+/* ifthen.pli */
+DCL x FIXED DECIMAL(5) INIT(5);
+
+IF x > 3 THEN
+    PUT LIST('x is greater than 3');
+END IF;

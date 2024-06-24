@@ -1,0 +1,4 @@
+|| ifthen.miranda
+x = 5
+
+main = [ if x > 3 then "x is greater than 3" else "" ]
