@@ -1,0 +1,6 @@
+* ifthen.fox
+x = 5
+
+IF x = 5
+    ? "x is 5"
+ENDIF

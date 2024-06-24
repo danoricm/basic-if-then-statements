@@ -1,0 +1,6 @@
+# ifthen.icon
+procedure main()
+    x := 5
+    if x > 0 then
+        write("x is positive")
+end
